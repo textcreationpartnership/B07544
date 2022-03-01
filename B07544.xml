@@ -1,0 +1,773 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cristall of Christianitie, or looking glasse of Gods love. Containing the principles of our Christian profession, by the way of disputation betweene master and scholler, in schooles and families, fit for the profitable practise of all (especially of youth) to be vsed. / Initiated formerly by others, and amplified by R.P. minister and preacher of Gods word..</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07544</idno>
+            <idno type="OCLC"> 180866934</idno>
+            <idno type="STC">STC 6099.7</idno>
+            <idno type="STC">ESTC S91576</idno>
+            <idno type="EEBO-CITATION">180866934</idno>
+            <idno type="OCLC">ocn 180866934</idno>
+            <idno type="VID">191692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191692)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2283:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cristall of Christianitie, or looking glasse of Gods love. Containing the principles of our Christian profession, by the way of disputation betweene master and scholler, in schooles and families, fit for the profitable practise of all (especially of youth) to be vsed. / Initiated formerly by others, and amplified by R.P. minister and preacher of Gods word..</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[71] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Thomas Dawson, dwelling neere the three Cranes in the Vinetree.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1617..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials, head- and tail-pieces.</note>
+                  <note>Colophon includes printer's device (McK. 241).</note>
+                  <note>Signatures: A-D⁸ E⁴.</note>
+                  <note>Imperfect: tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Examinations, questions, etc. --  Early works to 1800.</term>
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191692:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:191692:2"/>
+            <pb facs="tcp:191692:2"/>
+            <p>THE CRISTALL OF CHRISTIA<g ref="char:EOLhyphen"/>NITIE, OR LOOKING GLASSE OF GODS LOVE.</p>
+            <p>Containing the Principles of our Chriſtian profeſsion, by the way of diſputation betweene Maſter and Scholler, in Schooles and Fa<g ref="char:EOLhyphen"/>milies, fit for the profitable practiſe of all (eſpecially of youth) to be vſed.</p>
+            <p>Initiated formerly by others, and amplified by R. P. Miniſter and Preacher of Gods word.</p>
+            <p>Barnard in his Morrals.</p>
+            <q>
+               <hi>Sacra ſcriptura mentis oculis, quaſi ſpeculum quoddam opponitur, ibi pulcra noſtra in Chriſto perſpicimus, ibi feda noſtra in nobis Cernimus, ibi quantum perficimus, ibi quantum a pro factu longè diſtamus: plane ſentimus.</hi>
+            </q>
+            <p>Imprinted at London by <hi>Thomas Dawſon, dwelling neere the three Cranes in the Vinetree.</hi> 1617.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:191692:3"/>
+            <pb facs="tcp:191692:3"/>
+            <head>TO THE RIGHT VVORSHIPFVLL, <hi>VERTVOVS, AND</hi> Religious Gentleman, ma<g ref="char:EOLhyphen"/>ſter <hi>George Boſtocke,</hi> Iuſtice of his <hi>Maieſties peace in the Countie of Den<g ref="char:EOLhyphen"/>bigh,</hi> R. P. <hi>wiſheth Grace, Peace, and</hi> in Ieſus Chriſt all health and happie proſperitie.</head>
+            <p>
+               <seg rend="decorInit">L</seg>ICVRGVS (Right Wor<g ref="char:EOLhyphen"/>ſhipfull) the LACEDEMO<g ref="char:EOLhyphen"/>NIAN Law<g ref="char:EOLhyphen"/>maker apoin<g ref="char:EOLhyphen"/>ted condigne puniſhment for euery offendor according to the of<g ref="char:EOLhyphen"/>fence, but for an vnthankefull perſon
+<pb facs="tcp:191692:4"/>
+he could finde no ſeueritie (nor ſeuere puniſhment) ſufficient; In conſiderati<g ref="char:EOLhyphen"/>on therefore of your worſhip, and euer approued fauours towards me, as I am bound, ſo I am moued to remember them, and ſhew my ſelfe mindfull and thankful for them, leaſt I ſhould ſeeme culpable of the groſe ſinne of Ingrati<g ref="char:EOLhyphen"/>tude: and not haue power to performe my Gratuitie with gifts of excellencie. I haue made bolde to preſent to your Worſhip (in teſtimonie of my loue) my poore labours, wherein I laboured when I was the Lords labourer, in that Congregation where your Worſhips fauours were well approued, not to me alone, but to all that were faithfull preachers of Gods word, and confor<g ref="char:EOLhyphen"/>mable miniſters to the commendable Lawes of our gratious kinges Maieſtie: Thoſe apparant and approued giftes of grace, with many other commen<g ref="char:EOLhyphen"/>dable gifts of nature by God planted in you, hath prouoked me to preſent;
+<pb facs="tcp:191692:4"/>
+as vnto a deuout patron of pietie, the fruits of my labours, and arguments of my loue, by Gods grace purpoſing and faithfully promiſing (vpon your wor<g ref="char:EOLhyphen"/>ſhipful acceptation of this my widows mite) to dedicate more ample mani<g ref="char:EOLhyphen"/>feſtation to you and yours, of my vn<g ref="char:EOLhyphen"/>fained affection. In the meane time humbly crauing pardon for this my boldnes, and euer heartily (according to my bounden dutie) deſiring our gratious God in your heart (by his gratious bleſſing) to increaſe ſuch ho<g ref="char:EOLhyphen"/>ly and heauenly vertues, whereby the good gifts of grace and nature planted in you may flouriſh, and bring forth ſuch fruits of godlines, whereby Gods name may more be glorified, Chriſtes members comforted, our gratious Kings loyall Subiects, by your godly obedience, to like obedience in coura<g ref="char:EOLhyphen"/>ged, your Worſhips worthineſſe more illuſtrated, the bodies &amp; ſoules of you and all yours with bleſſinges Tempo<g ref="char:EOLhyphen"/>rall,
+<pb facs="tcp:191692:5"/>
+more and more inriched, and with the Diadems and Crownes of glory, by the glorious King of Hea<g ref="char:EOLhyphen"/>uen eternally Crowned, I reſt. London the firſt day of September. 1617. (⸫)</p>
+            <closer>
+               <signed>Your worſhips in all loue and dutie <hi>ouer to commaund.</hi> R. P.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:191692:5"/>
+            <head>A Prayer to be ſayd at the <hi>beginning of this Booke.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord our God (and in Ieſus Chriſt our mercifull and heauenly Father) we thy poore ſeruants aſſembled before thy maïeſtie in this Congregation, by the ſight of our ſinnes doe acknowledge our ſelues to be vnworthie of the leaſt drop of thy fa<g ref="char:EOLhyphen"/>uour, or dram of thy mercies: Therefore we beſeech thee, in the name of thy deare Son Ieſus Chriſt, and for his ſake to pardon all our ſinnes paſſed, and by thy gratious ſpirit, to grant vs ſuch grace at this preſent, that we may religiouſly proceede in the true vn<g ref="char:EOLhyphen"/>derſtanding of thy holy word: And by the ſame thy ſpirit bee made more obedient to frame our liues by direction of thy Lawes, that thereby we may be more apt and able to ſet forth thy glory, by practiſing the pre<g ref="char:EOLhyphen"/>cepts
+<pb facs="tcp:191692:6"/>
+taught vs in thy holy word at this pre<g ref="char:EOLhyphen"/>ſent, and daily bee more readie by hearing the ſame thy holy word, to receiue ſuch in<g ref="char:EOLhyphen"/>creaſe of faith as may ſuſtaine vs to the at<g ref="char:EOLhyphen"/>tayning of all godly inſtructions, and full fruition of true and eternall felicitie, world without ende, through Ieſus Chriſt thy deare Sonne our onely Sauiour,</p>
+            <closer>A<g ref="char:EOLhyphen"/>men.</closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb facs="tcp:191692:6"/>
+            <head>The Criſtall of Chriſtianitie, or looking Glaſſe of <hi>GODS loue.</hi>
+            </head>
+            <p>
+               <hi>Queſtion.</hi> 
+               <seg rend="decorInit">A</seg>S You doe profeſſe to be a Chriſtian, ſo ſhewe me what eſtimation you haue of the di<g ref="char:EOLhyphen"/>uine ſcriptures where on you grounde your Chriſtian profeſſion?</p>
+            <p>
+               <hi>Anſwere.</hi> I doe and I ought to eſteeme the holy and Canonicall ſcriptures, to bee the ſpirituall glaſſe and cleare Criſtall, wherein the di<g ref="char:EOLhyphen"/>uine fauour, and euerlaſting loue of God doth appeare, euen to the attaining of eter<g ref="char:EOLhyphen"/>nall life. <hi>Iohn 3. 30.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:191692:7"/>Q. Wherein may Chriſtians principally proue and find that diuine fauour and euer<g ref="char:EOLhyphen"/>laſting loue?</p>
+            <p>A. Firſt that God the Father did out of his meere loue, create vs to his owne Image.</p>
+            <p>Secondly, that God the Son (when that Image was defaced) did of his tender loue, giue himſelfe to redeeme vs.</p>
+            <p>Thirdly, that God the holy Ghoſt, grati<g ref="char:EOLhyphen"/>ouſly (both ſanctifieth) and in ſanctification preſerueth vs.</p>
+            <p>Q. As you haue mentioned the God-head in three perſons, Can you proue them by the Scriptures to be one, onely true God?</p>
+            <p>A. The Apoſtle Iohn doth plainely proue it in theſe words, <hi>There are three that beare record in heauen, the Father, the Word, and the Spirit, and theſe three are one God Iohn 5. 17.</hi>
+            </p>
+            <p>Q. Wherefore hath God Created, Redee<g ref="char:EOLhyphen"/>med, Sanctified, and in ſanctification pre<g ref="char:EOLhyphen"/>ſerued Chriſtians?</p>
+            <p>A. Firſt, that we in this life ſhould liue to the glory of God.</p>
+            <p>Secondly, in the life to come, wee ſhould receiue glory euerlaſting with God.</p>
+            <p>Q. How may Chriſtians learne to glorifie God in this preſent life?</p>
+            <p>
+               <pb facs="tcp:191692:7"/>A. By ordering this life according to the rule of Gods holy word, in the Scriptures reueiled.</p>
+            <p>Q. What rules of life are in the ſcriptures reueiled, to guide vs to the glory of God?</p>
+            <p>A. The firſt is the rule of Gods holy pre<g ref="char:EOLhyphen"/>cepts and Commandements.</p>
+            <p>The ſecond is conſtant faith in Gods fa<g ref="char:EOLhyphen"/>therly promiſes.</p>
+            <p>The third is religious Celebrating the holy Sacraments.</p>
+            <p>The fourth is the practiſe of holy, faithful, feruent, and deuout prayers.</p>
+            <p>Q. How many are the precepts by God commanded?</p>
+            <p>A. The Commandements are ten in num<g ref="char:EOLhyphen"/>ber, and in two Tables they were written for our inſtruction.</p>
+            <p>Q. What things are in thoſe two Tables principally contained?</p>
+            <p>A. In the firſt, a Chriſtians dutie to God.</p>
+            <p>And in the ſecond our duties to our neigh<g ref="char:EOLhyphen"/>bour, are both taught, contained, and com<g ref="char:EOLhyphen"/>maunded.</p>
+            <p>Q. What are the words in the firſt Table mentioned?</p>
+            <p>
+               <hi>Q. I am the Lord thy God which haue brought thee out of the land of Egypt, out
+<pb facs="tcp:191692:8"/>
+of the houſe of Bondage. Exod. xx.</hi>
+            </p>
+            <p>Q. Are theſe words a part of the ten Com<g ref="char:EOLhyphen"/>maundements?</p>
+            <p>A. Theſe words are not of the Commaun<g ref="char:EOLhyphen"/>dements, but are a profitable preface, before the precepts.</p>
+            <p>Q. What learne chriſtians by this preface?</p>
+            <p>A. A Chriſtian by the word, <hi>Lord,</hi> may learne the Law-giuer to be the chiefe Lord and gouernour.</p>
+            <p>And by the word, <hi>God,</hi> a louing Father and moſt mercifull deliuerer of his people, from bondage, diſtreſſe, and dangers both of bodie and ſoule.</p>
+            <p>Q. What vſe may a Chriſtian make of this preface?</p>
+            <p>A. A Chriſtians vſe of this preface is to fears the Law giuer as a Lord and Maſter and to loue &amp; obey him as a gratious God, and louing Father. Mala 1.</p>
+            <p>Q. What are the words of the firſt Com<g ref="char:EOLhyphen"/>maundement?</p>
+            <p>A. <hi>Thou ſhalt haue none other Gods but me.</hi>
+            </p>
+            <p>Q. What learne you by this firſt Com<g ref="char:EOLhyphen"/>maundement?</p>
+            <p>A. I learne that firſt I ought to worſhippe God onely: and to giue diuine worſhip to
+<pb facs="tcp:191692:8"/>
+none but vnto this diuine Maieſtis of the Dietie.</p>
+            <p>Q. In how many poynts doth this diuine worſhip ſtand and chiefly conſiſt?</p>
+            <p>A. The firſt part of diuine worſhip conſiſ<g ref="char:EOLhyphen"/>teth in that perfect loue deſcribed by our Sauiour Chriſt. <hi>Mat. 12. 35.</hi> And in that zealous loue expreſſed by the Prophet <hi>Da<g ref="char:EOLhyphen"/>uid</hi> ſaying. <hi>Whom haue I in heauen? but thee: and there is none that I deſire on earth in compariſon of thee. Pſal. 73. 25.</hi>
+            </p>
+            <p>Q. What is the ſecond part of Gods diuine worſhip.</p>
+            <p>A. The ſecond conſiſteth in ſuch reuerend feare as maketh a Chriſtian neyther to o<g ref="char:EOLhyphen"/>mit willingly any good thing by God com<g ref="char:EOLhyphen"/>maunded, nor commit wilfully any euill thing by Gods law prohibited. <hi>Mala. 1. 6.</hi>
+            </p>
+            <p>Q. What is the third point of Gods diuine worſhip?</p>
+            <p>A. The third part conſiſteth in yeelding all prayſes, and directing all our prayers to God onely, and to holde it a groſſe impietie to giue Angels, Saints, or Creatures, any ſuch honour, glory, or diuine worſhip, as is due to God onely.</p>
+            <p>Q. What is the fourth poynt of Gods di<g ref="char:EOLhyphen"/>uine worſhip?</p>
+            <p>
+               <pb facs="tcp:191692:9"/>A. The fourth part is to acknowledge God the giuer of all good thinges <hi>Iames 1.</hi> And therefore to truſt and depend onely on Gods grace and goodneſſe, hoping as he hath gi<g ref="char:EOLhyphen"/>uen vs his onely ſonne, he will by him giue vs all good things.</p>
+            <p>Q. What are the words of the ſecond Com<g ref="char:EOLhyphen"/>maundement?</p>
+            <p>A. <hi>Thou ſhalt not make to thy ſelfe any grauen image, nor the likeneſſe, &amp;c.</hi>
+            </p>
+            <p>Q. What learne you by this Commaunde<g ref="char:EOLhyphen"/>ment?</p>
+            <p>A. Firſt, I learne to hate, loath, &amp; abhorre, the preſumption of ſuch vaine men, as by imagination will preſume to make the I<g ref="char:EOLhyphen"/>mage of the inuiſible God, whom no mor<g ref="char:EOLhyphen"/>tall man hath ſeene at any time, neyther can be ſeene with mortall eyes. <hi>Iohn 1. 18.</hi> Q. What doe you learne further?</p>
+            <p>A. I learne ſecondly to auoyde, and to la<g ref="char:EOLhyphen"/>ment the groſſe blindneſſe of men, which re<g ref="char:EOLhyphen"/>ceiue Images for Gods, and by falling downe to worſhip Idols, doe worſhip De<g ref="char:EOLhyphen"/>uils. <hi>1. Cor. 10. 20.</hi>
+            </p>
+            <p>Q. What learne you elſe by this precept? A. I learne thirdly, that as the Law-giuer is a iealous God, he will render vengeance on the third and fourth generation of all I<g ref="char:EOLhyphen"/>dolaters
+<pb facs="tcp:191692:9"/>
+and haters of his diuine worſhip. <hi>Exod. 20.</hi> So he is a gratious God, which will ſhewe mercie to me, and to thouſands of generations of Chriſtians, that obey him, and religiouſly worſhip him. <hi>Pſal. 103. Exod. 20.</hi>
+            </p>
+            <p>Q. What are the words of the third Com<g ref="char:EOLhyphen"/>maundement?</p>
+            <p>A. <hi>Thou ſhalt not take the name of the Lord thy God in vaine, &amp;c.</hi>
+            </p>
+            <p>Q. What learne you by this Commaunde<g ref="char:EOLhyphen"/>ment?</p>
+            <p>A. Firſt I learne that I muſt in all things and at all times vſe the name of God with high reuerence, and not ſo much as to thinke, or to ſpeake of God, without a due, reuerent, and a religious regard.</p>
+            <p>Q. What doe you ſecondly learne here?</p>
+            <p>A. Secondly, I learne in conference and com munication to vſe no oath, nor to ſware by any creatures. <hi>Ier. 5. 7. Pſal. 16. 4.</hi>
+            </p>
+            <p>Q. What learne you more hereby?</p>
+            <p>A. Thirdly, I learne that to vſe the name of God to ſorcerie, inchantment, curſing, and in falſe teſtimonie, is no leu<g ref="char:cmbAbbrStroke">̄</g>e then a finne of blaſphemie. <hi>Deut. 18. 10.</hi>
+            </p>
+            <p>Q. When there is cauſe of an oth, by whom muſt we ſweare?</p>
+            <p>
+               <pb facs="tcp:191692:10"/>A. In lawfull and requiſite cauſes, to ſware by God is part of his glory. <hi>Deuteronomy 6. 13. Pſal. 63. 71.</hi>
+            </p>
+            <p>Q. In what cauſes are oathes lawfull and requiſite?</p>
+            <p>A. When before a Iudge to witnes a truth for the ending of controuerſie. <hi>Heb. 6. 16.</hi>
+            </p>
+            <p>Alſo when the truth is teſtified for preſer<g ref="char:EOLhyphen"/>uation of our brethren from intury. <hi>Ie. 4. 2.</hi>
+            </p>
+            <p>Likewiſe, when an oath is requiſite in any caſe for the ſetting forth of Gods glo<g ref="char:EOLhyphen"/>ry, it may lawfully be vſed. <hi>Rom. 9. 1.</hi> and the <hi>2. Cor. 11. 31.</hi>
+            </p>
+            <p>Q. What is the fourth Commandement? A. <hi>Remember that thou keepe holy the Sabboth day, &amp;c.</hi>
+            </p>
+            <p>Q. What learne you by the word, <hi>Re<g ref="char:EOLhyphen"/>member?</hi>
+            </p>
+            <p>A. I learne by that word, the waightineſſe of the matter, for in matters of waight that word is vſed. <hi>Eccle. 12.</hi>
+            </p>
+            <p>Q. What ſignifieth the word, <hi>Sabboth,</hi> and what meaneth the keeping it holy?</p>
+            <p>A. The word <hi>Sabboth,</hi> ſignifieth <hi>Reſt,</hi> and teacheth Chriſtians to reſt from bodily la<g ref="char:EOLhyphen"/>bours, and not to be idle, but to ſpend it in holy exerciſes, and diuine duties.</p>
+            <p>Q. What are thoſe holy exerciſes &amp; diuine
+<pb facs="tcp:191692:10"/>
+duties commaunded?</p>
+            <p>A. Firſt, a Chriſtian is to remember to ſeeke the Lord earely in ſuch prinate pray<g ref="char:EOLhyphen"/>ers, as may moue God to direct them to holyneſſe. <hi>Pro. 8. Pſal. 51.</hi>
+            </p>
+            <p>Secondly, with them that keepe the holie day to reſorte with prepared heartes to the houſe of God and place of prayers. <hi>Eccle. 5. Pſal. 44.</hi>
+            </p>
+            <p>Thirdly to labour to encreaſe his faith by hearing Gods word, and to ſtrengthen his faith by often and reuerend celebrating the Sacraments appointed by Chriſt. <hi>Rom. 10. 1. Cor. 11.</hi>
+            </p>
+            <p>Fourthly, after the hearing of the word and receiuing the Sacraments, to make per fect what they haue learned, by the Noble<g ref="char:EOLhyphen"/>mens practiſe of <hi>Berea<g ref="char:punc">▪</g> Act. 17.</hi>
+            </p>
+            <p>Fiftly, and finally with deuout prayers to God, and with <hi>Dauids</hi> deuotion, in ſin<g ref="char:EOLhyphen"/>ging Pſalmes to the prayſe of God, and to ſpend the whole day, to the honour of the Lord, is the ſanctifying and keeping holy the Sabboth.</p>
+            <p>Q. Who are commanded to keeps holy the Sabboth?</p>
+            <p>A. Firſt, all Gouernours, as Fathers, Mo<g ref="char:EOLhyphen"/>thers, and Maſters.</p>
+            <p>
+               <pb facs="tcp:191692:11"/>Secondly, ſonnes, daughters, men, and maid ſeruants.</p>
+            <p>And thirdly, Gouernours are both com<g ref="char:EOLhyphen"/>maunded and chiefly charged, that them<g ref="char:EOLhyphen"/>ſelues, their familie, and ſtrangers in their houſes, doe keepe holy the Sabboth.</p>
+            <p>Q. What learne you more from this pre<g ref="char:EOLhyphen"/>cept?</p>
+            <p>A. I learne that the very Cattell this day by Gods commaundement ſhould reſt, and not be laboured nor toyled.</p>
+            <p>Q. What is farther to bee learned out of this precept?</p>
+            <p>A. In the laſt part remaineth a memora<g ref="char:EOLhyphen"/>ble preſedent of our Lord God the Law<g ref="char:EOLhyphen"/>maker.</p>
+            <p>Q. What learne you by the Lords preſe<g ref="char:EOLhyphen"/>dent?</p>
+            <p>A. Firſt I learne, that as in ſixe dayes the Lord ordered and ended his works of crea<g ref="char:EOLhyphen"/>tion: So a Chriſtian ſhould order and end the worke of his vocation.</p>
+            <p>Alſo I learne, as the Lord reſted the ſea<g ref="char:EOLhyphen"/>uenth day and ordained it to be ſanctified: ſo a Chriſtian ought earneſtly to immitate Gods preſedent, and obey Gods comman<g ref="char:EOLhyphen"/>dment.</p>
+            <p>A. As you haue ſhewed me largely what a
+<pb facs="tcp:191692:11"/>
+Chriſtian ſhould doe on the Sabboth day, ſo ſhew me briefly, what hee ſhould leaus vndone that day.</p>
+            <p>A. All thinges that neceſſitie conſtraineth not, and Gods word commaundeth not, a Chriſtian on the Sabboth ought to leaue vndone. <hi>Eſay. 58. 13. Mat. 12. 3. 5.</hi>
+            </p>
+            <p>Q. As in order of the Tables of the Law, the dutie of a Chriſtian to Gods maieſty is firſt placed, ſo ſhew me what is thereby to be learned?</p>
+            <p>A. Firſt I learne, that GOD is firſt and principally to be obeyed.</p>
+            <p>Secondly, that the kingdome of God is before all things to be deſired.</p>
+            <p>Thirdly, that all our goods and ſubſtance are to Gods glory to be employed.</p>
+            <p>Fourthly, to expreſſe our loue to God, our liues are not to be regarded.</p>
+            <p>Proceede nowe to the firſt precept of the ſecond Table.</p>
+            <p>A. <hi>Honour thy Father and mother, that thy dayes may belong in the land, &amp;c.</hi>
+            </p>
+            <p>Q. What learne you by this word honour thy Father?</p>
+            <p>A. I learne that I am bound to loue, feare and obey, to reuerence, relieue, &amp; comfort all thoſe which God hath placed in place of
+<pb facs="tcp:191692:12"/>
+my parents.</p>
+            <p>Q. What perſons are by Gods word in place of parents to be honoured?</p>
+            <p>A. Firſt, naturall parents which are inſtru<g ref="char:EOLhyphen"/>ments of our life, firſt are ſo to bee honou<g ref="char:EOLhyphen"/>red. <hi>Ephe. 6.</hi>
+            </p>
+            <p>Secondly, <hi>Kinges</hi> and <hi>Queenes,</hi> which are Gods annoynted, as princely parents, and are ſo to be honoured. <hi>Eſay. 54.</hi>
+            </p>
+            <p>Thirdly, Biſhops and all Preachers, and all paſtorall parents, are ſo to be honoured.</p>
+            <p>Magiſtrates and all gouernours, which are inſtruments for ordering of our Coun<g ref="char:EOLhyphen"/>trey, are ſo to be honoured.</p>
+            <p>All aged men and women, and all our el<g ref="char:EOLhyphen"/>ders, as is afore mentioned, are ſo to bee honoured.</p>
+            <p>Q. What learne you farther by the fourth precept?</p>
+            <p>A. I learne that this commandement hath a promiſe of bleſſing, to moue Chriſtiane to bee more dutifull to their parents, namely long life to the obedient.</p>
+            <p>Q. Seeing we doe ſee the wicked flouriſh and liue long. <hi>Pſal. 37.</hi> and often the righte<g ref="char:EOLhyphen"/>ous to periſh, and liue not ſo long. <hi>Eſay. 57.</hi> How can that promiſe be rightly approued, or to the obedient applyed?</p>
+            <p>
+               <pb facs="tcp:191692:12"/>A. Firſt we are taught that a wicked mans life is death. <hi>Luk. 15.</hi> and the prolonging of his dayes in ſinfull life, is heaping of ven<g ref="char:EOLhyphen"/>geance by his long life. <hi>Rom. 2.</hi>
+            </p>
+            <p>Secondly, we are taught, that the life of a righteous man doth not end when his mortall life is ended, for <hi>Abell being dead, yet ſpeaketh. Heb. 11.</hi> And long life is not onely to liue in the bodie, but to be aliue e<g ref="char:EOLhyphen"/>uer while the world lafteth, by faith and fa<g ref="char:EOLhyphen"/>mous memorie.</p>
+            <p>Q. Doe you conclude then that the wicked liue long to encreaſe their condemnation, and Gods children haue a double bleſſing both of gray hayres, and liuing holy liues.</p>
+            <p>A. I conclude that the wicked liue long (by Gods permiſſion) to their further confuſi<g ref="char:EOLhyphen"/>on, and Gods obedient children, both in ſpeedie death and long life, haue and iuſtly may haue, conſolation of this promiſed bleſſing.</p>
+            <p>Q. What is the ſixt precept, &amp; what learne you by it?</p>
+            <p>A. The commaundement is, <hi>Thou ſhalt not kill.</hi> And firſt I learne to refraine my tongue from lying and ſlandering, from mocking &amp; quarrelling. <hi>Mat. 5. 22. Pſal. 15.</hi>
+            </p>
+            <p>Secondly, I learne to keepe my handes
+<pb facs="tcp:191692:13"/>
+from ſtriking, fighting, and generally from euery thing that tendeth to killing and mur<g ref="char:EOLhyphen"/>thering.</p>
+            <p>Thirdly, I am bound, as not to kill, ſo to ſeeke to preſerue life as much as in mee lyeth. <hi>Mat. 25. 35.</hi>
+            </p>
+            <p>Q. Rehearſe the ſeauenth Commaunde<g ref="char:EOLhyphen"/>ment, and ſhew me what you learne by it? A. <hi>Thou ſhalt not commit adultery:</hi> where<g ref="char:EOLhyphen"/>in firſt I learne, that as the act of adultery, fornication, and all vncleanneſſe of body is forbidden ſo all vnchaſt thoughts, deſires, and vnpure words are alſo forbidden. <hi>Mat. 5. 28.</hi>
+            </p>
+            <p>Secondly, I learne that matrimonie is chiefly to be preſerued, and the wedding bed to be vndefiled, and that whoremongers &amp; adulterers ſhall of God be iudged. <hi>Heb. 13.</hi>
+            </p>
+            <p>Thirdly, I learne to refraine from all vn<g ref="char:EOLhyphen"/>chaſt behauiour, all vnchaſt wordes and ſongs of Kibaudry.</p>
+            <p>Q. Shew me what are the words of the 8. precept, and what you learne thereby?</p>
+            <p>A. <hi>Thou ſhalt not ſteale:</hi> whereby I learne to abſtaine from ſtealing, from robbing de<g ref="char:EOLhyphen"/>franding, from vnlawfull dealing, and all vnlawfull games. <hi>Leuit. 19. 11. Ephe. 5. 5. 1. Theſ. 4. 6.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:191692:13"/>Secondly, I learne, That I am bound to labour truely for my owne liuing. <hi>1. Theſ. 3. 10.</hi>
+            </p>
+            <p>Thirdly, I learne to the vttermoſt of my power, to relieue by my labour the needie members of Chriſtes bodie. <hi>1. Tim. 6. 18.</hi>
+            </p>
+            <p>Q. Proceed and ſhew me what is the ninth Commaundement, and what you learne thereby?</p>
+            <p>A. <hi>Thou ſhalt not beare falſe witnes againſt thy neighbour:</hi> Wherein firſt I learne not to teſtifie any vntruth. <hi>Pro. 10. 5.</hi>
+            </p>
+            <p>Secondly, I learne not to diſſemble, but to ſpeake truth in my talking. <hi>Ephe. 4. 25.</hi>
+            </p>
+            <p>Thirdly, I learne not to giue out falſe re<g ref="char:EOLhyphen"/>ports, nor ſlanderous ſpeeches of any man. Q. What is the tenth Commaundement, and what learne you out of it?</p>
+            <p>A. <hi>Thou ſhalt not couet thy neighbours houſe &amp;c.</hi> whereby I learne, That all the thoughts of mens heart, are open to Gods eyes, and euery couetous deſire of mans heart, whereby the loue of God or of our neighbour is violated, though it be not ſin to the eyes of men nor committed in act, yet ſuch thoughts and deſires are ſinnefull in Gods ſight. <hi>Rom. 7. 7.</hi>
+            </p>
+            <p>Q. What is ſinne preſcribed to be in the ho<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:191692:14"/>
+Scripture?</p>
+            <p>A. Euery tranſgreſſion of Gods law, either in thought, word, or deed, is ſinne. <hi>1. Ioh. 3.</hi> Q. What is the reward of ſinne and tranſ<g ref="char:EOLhyphen"/>greſſion?</p>
+            <p>A. The reward of ſinne and of vnbeleeuers is death and condemnation. <hi>Rom. 6. 23.</hi>
+            </p>
+            <p>Q. Can any man ſo fulfill the law, where<g ref="char:EOLhyphen"/>by he may auoyd eternall death.</p>
+            <p>A. The moſt iuſt eſt man is vnable, by ful<g ref="char:EOLhyphen"/>filling the law to auoid eternall death. <hi>Luk. 17. 10.</hi>
+            </p>
+            <p>Q. What benefite then bringeth the law to theſe that obey it?</p>
+            <p>A. The law is a glaſſe, that by the ſight of ſinne humbleth the Chriſtian. <hi>Rom. 3. 19.</hi>
+            </p>
+            <p>And ſecondly the law is a ſchoolemaſter to bring humbled Chriſtians to beleeue in Chriſt, and to be ſaued. <hi>Gal. 3. 24.</hi>
+            </p>
+            <p>Q. Seeing by the workes of the law a man cannot be ſaned, why according to the law ſhould good workes be performed?</p>
+            <p>A. Firſt, good workes of the faithfull ruled by the lyne of Gods word, are done to glo<g ref="char:EOLhyphen"/>rifie our heauenly Father. <hi>Mat. 5.</hi>
+            </p>
+            <p>Secondly, good workes that proceed from the faithfull, are ſignes of ſanctification and<note place="margin">Pars pri<g ref="char:EOLhyphen"/>ma.</note> worke hope of election. <hi>2. Pet. 1. 10.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:191692:14"/>Thirdly good workes wrought in vs by the holy Ghoſt winneth other to godly con<g ref="char:EOLhyphen"/>uerſation. <hi>Mat. 5.</hi> And bee wrought in the faithfull as arguments of ſaluation.</p>
+            <p>Q. Seeing by good works no Chriſtian can haue ſaluation, ſhew me then howe ſhall a Chriſtian be ſaued?</p>
+            <p>A. Euery faithfull Chriſtian obtaineth ſal<g ref="char:EOLhyphen"/>uation by faith in Chriſt Ieſus onely. <hi>Rom. 3. 28.</hi>
+            </p>
+            <p>Q. What doe you learne true Chriſtian faith to be?</p>
+            <p>A. True Chriſtian faith is a full &amp; perfect perſwaſion and aſſurance to bee ſaued by Chriſt. <hi>Rom. 8. 38. 39.</hi>
+            </p>
+            <p>Q. How is it wrought in the heart of man? A. The outward meanes, by hearing the word preached. <hi>Rom. 10. 9.</hi>
+            </p>
+            <p>The inward meanes is the infuſion of grace by the holy Ghoſt. <hi>Ephe. 3. 16.</hi>
+            </p>
+            <p>Q. Whereon is this faith grounded and e<g ref="char:EOLhyphen"/>ſtabliſhed?</p>
+            <p>A. It is grounded and eſtabliſhed on Gods promiſes in Chriſt Ieſus. <hi>Rom. 4. 3. Gal. 3. 26.</hi>
+            </p>
+            <p>Q. Shew me how and whereby Chriſtians may behold this Chriſtian faith?</p>
+            <p>A. The twelue Apoſtles in a cleare criſtall
+<pb facs="tcp:191692:15"/>
+glaſie hath deſcribed it plainely.</p>
+            <p>Q. Kehearſe the firſt Article, and ſhew me what you learne by it.</p>
+            <p>A. <hi>I beleeue in God the father Almightie &amp;c.</hi> Firſt I learne hereby, God on whom I doe beleeue is my Father, and I am his childe by faith in Chriſt. <hi>Iohn 1. 12. Gal. 3.</hi>
+            </p>
+            <p>Secondly, I learne I am one of them to whom God ſayth, I will be their God, and they ſhall be my ſonnes &amp; daughters ſayeth the Almightie. <hi>Iere. 33. 1.</hi>
+            </p>
+            <p>Thirdly I learne, that my almightie Fa<g ref="char:EOLhyphen"/>ther will ſo ſuſtaine me, that I ſhall lacke nothing. <hi>Pſal. 23.</hi> And ſo defend me that the gate of hell ſhall not preuaile againſt me. <hi>Math. 16.</hi>
+            </p>
+            <p>Q. Rehearſe the ſecond Article, and ſhew me what you learne by it.</p>
+            <p>
+               <hi>A. And in Ieſus Chriſt his onely ſonne our Lord.</hi>
+            </p>
+            <p>Firſt I learne the name and nature of Ieſus doth aſſure me, that he is my Saui<g ref="char:EOLhyphen"/>uiour. <hi>Mat. 2.</hi>
+            </p>
+            <p>By the ſecond title of his name which is Chriſt (and ſignifieth aunoynted) I am taught that as the oyntment on <hi>Aarons</hi> head did deſcend to all his garments, ſo on me and all Chriſtians the oyle of grace deſ<g ref="char:EOLhyphen"/>cendeth
+<pb facs="tcp:191692:15"/>
+from Chriſt vnto vs.</p>
+            <p>The third as he is the onely ſonne of God from euerlaſting, ſo he bringeth many chil<g ref="char:EOLhyphen"/>dren to God euerlaſtingly to be ſaued.</p>
+            <p>Fourthly I learne, That he is my Lord both by right of redemption, and my Lord and huſband by right of coniunction. <hi>Hoſ. 2. 19.</hi>
+            </p>
+            <p>Q. Rehearſe the third Article and ſhew me what you learne by it.</p>
+            <p>
+               <hi>A. Which was conceiued by the holy Goſt: borne of the virgin Mary:</hi> where<g ref="char:EOLhyphen"/>by I learne, firſt that he is free from ſinne, and altogether pure and vnſpotted. <hi>Heb. 9.</hi>
+            </p>
+            <p>Secondly I learne, that by his diuine na<g ref="char:EOLhyphen"/>ture and power, hee is able to performe what ſoeuer tendeth to the conqueſt of mans foes. <hi>Col. 3.</hi>
+            </p>
+            <p>Thirdly, it doth aſſure me that hee being borne of a woman, is a perfect man, and in his perſon and manhood indured the wrath of God for the ſinnes of mankinde, and to free the faithfull (by his ſatisfaction) from all their ſinne and tranſgreſſion. <hi>Eſay 53.</hi>
+            </p>
+            <p>Q. Rehearſe the fourth Article, and ſhew me what you learne thereby?</p>
+            <p>
+               <hi>A. Suffered vnder <hi>Poncius Pilate:</hi> was cru<g ref="char:EOLhyphen"/>cified, dead, and buryed, he deſcended in<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:191692:16"/>
+hell.</hi> Firſt I learne, that vnder <hi>Poncius Pilate</hi> the Iudge, he ſuffered on the Croſſe to worke out my Redemption. <hi>Math. 27. Gal. 3. 14.</hi>
+            </p>
+            <p>Secondly, his deſcending into hell, ſig<g ref="char:EOLhyphen"/>nifieth the humbling of his ſoule, to ſuffer the torments of hell for my ſake. <hi>Pſal. 22.</hi>
+            </p>
+            <p>Q. Rehearſe the fixt Article, and what you learne out of it?</p>
+            <p>
+               <hi>A. He roſe againe from the dead:</hi> Hereby I learne, that his reſurrection doth aſſure me of my iuſtification. <hi>1. Cor. 15. 17.</hi>
+            </p>
+            <p>Secondly I learne, that riſting from ſinne and delighting in righteouſnes, doth aſſure me that I am a choſen member of his body. <hi>Rom. 6. 4.</hi>
+            </p>
+            <p>Thirdly I am taught that I riſing with him, ſhould ſet my affections on heauenly things where he is. <hi>Col. 3. 1.</hi>
+            </p>
+            <p>Fourthly, the riſing of his body from the graue ſo gloriouſly, doth aſſure me that my body ſhall ariſe to enjoy with him eternall glory. <hi>1. Cor. 15. 18.</hi>
+            </p>
+            <p>Q. Rehearſe the fixt Article, and what you learne by it?</p>
+            <p>
+               <hi>A. He aſcended into heauen, and ſitteth on the right hand of God, &amp;c.</hi> Firſt I learne by his aſcenſion into heauen, that hee hath
+<pb facs="tcp:191692:16"/>
+taken poſſeſſion for me, &amp; all his members of the heauenly Manſion.</p>
+            <p>Secondly, That he is ſeated on the right hand of God in maieſtie, doth aſſure me that he is aboue all Angels, placed in a ſe<g ref="char:EOLhyphen"/>condary dignitie to the father, to whom in his humane nature hee maketh interceſſion for his members continually.</p>
+            <p>Thirdly, he there placed in glory aſſureth me and euery member of his body, there to be placed with him in euerlaſting glory.</p>
+            <p>Q. Rehearſe the ſeauenth Article, &amp; what you learne by it?</p>
+            <p>
+               <hi>A. From thence he ſhall come to iudge the quicke and the dead.</hi> Wherin firſt I learne to my comfort, that my Sauieur ſhall come to be my Iudge. <hi>Iob 19. 25.</hi>
+            </p>
+            <p>Secondly, I learne that his ſecond com<g ref="char:EOLhyphen"/>ming ſhall bee with great glory, when hee commeth to Iudgement. <hi>Mat. 25. 41.</hi>
+            </p>
+            <p>Thirdly I learne, as he ſhalbe glorified in giuing glory to his faithfull members: ſo he ſhall alſo be glorified in rendring ven<g ref="char:EOLhyphen"/>geance in flaming fire, to the faithleſſe that haue contemned the faithfull, and diſobeyed the Goſpell. <hi>1. Theſ. 2. 8.</hi>
+            </p>
+            <p>Q. Rehearſe the eyght Article, and ſhew me what you learne out of it?</p>
+            <p>
+               <pb facs="tcp:191692:17"/>
+               <hi>A. I beleeue in the holy Ghoſt:</hi> wherein firſt I learne, the holy ſpirit being very God doth certifie my ſoule and my ſpirite, that I and all faithfull Chriſtians, are the children of God and coheires with Chriſt of his glorious kingdome. <hi>Rom. 8. 16.</hi>
+            </p>
+            <p>Secondly I learne, that the ſpirituall power of the holy ſpirit mollifieth ſinne in mee, and maketh all holy deſires to take place in my ſoule, and indueth me with true holineſſe of life. <hi>Ephe. 4, 23.</hi>
+            </p>
+            <p>Q. Rehearſe the ninth Article, and what you learne therein?</p>
+            <p>
+               <hi>A. I beleeue the catholike Church:</hi> where<g ref="char:EOLhyphen"/>by I learne, that God hath on earth and throughout the world, a holy Chuch and ſanctified Congregation of people. <hi>Math. 8. 10. Act. 10. 34.</hi>
+            </p>
+            <p>Secondly I learne, That in this holy ſo<g ref="char:EOLhyphen"/>cietie, there is a Communion of Saints, of which number by faith I am aſſured through thy fauour to be one. <hi>Ephe. 5. 26.</hi>
+            </p>
+            <p>Q. Rehearſe the tenth Article, and what you learne by it?</p>
+            <p>A. <hi>I beleeue the forgiueneſſe of ſinnes:</hi> by which Article firſt I learne, and ſtedfaſtly beleeue, although I am a ſinner, yet Chriſt making ſatisfaction for my ſinnes, and for
+<pb facs="tcp:191692:17"/>
+the ſinnes of the whole world, my ſinnes ſhall neyther to me be imputed, nor to my confuſion remembred. <hi>Ier. 33. 34. Pſal. 32. 1.</hi>
+            </p>
+            <p>Q. Rehearſe the eleauenth Article, and what you learne by it?</p>
+            <p>A. <hi>I beleeue the reſurrection of the Bodie:</hi> Whereby I learne, that when the trumpet of God thall blow, and the Arch-angels ſound out this powerfull ſentence, <hi>Riſe you dead,</hi> my body ſhall be raiſed from the duſt, and ſo raiſed ſhall raigne with Chriſt for euer. <hi>1. Theſ. 4. 17.</hi>
+            </p>
+            <p>Secondly I learne, I ſhall bee clothed with Chriſt his bodie, and in my reſurrec<g ref="char:EOLhyphen"/>tion my vile body ſhall be glorious. <hi>1. Cor. 15. 42.</hi>
+            </p>
+            <p>Q. Rehearſe the twelfth Article, and ſhew me what you learne thereby?</p>
+            <p>A. <hi>I beleeue the life euerlaſting<g ref="char:punc">▪</g>
+               </hi> Wherein firſt I learne to my comfort, that after death I ſhall be placed in the throne of life, and crowned in the kingdome of life. <hi>Reu. 2. 10. 1. Tim. 4.</hi>
+            </p>
+            <p>Secondly I learne, the life which I and euery faithfull member of Chriſt ſhall re<g ref="char:EOLhyphen"/>ceiue, ſhall neuer ende but bee euerlaſting. <hi>Pſal. 21.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:191692:18"/>Thirdly I learne, that of all theſe graces and fauours of God to mee and to all the faithfull, commeth of the free gift of God to me, &amp; to all the whole Chriſtian Church, through Ieſus Chriſt our Lord and Sauiour, to whom with the Father and holy ſpirit, I &amp; all the faith<g ref="char:EOLhyphen"/>full are bound to render, all honor and glory, world without end, Amen. (⸫)</p>
+            <div type="prayer">
+               <pb facs="tcp:191692:18"/>
+               <head>A Prayer briefly to be repeated <hi>at the end of this firſt part.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">G</seg>Ratious, holy, and heauenly Father, which of thy loue, haſt (of clay) created vs to thine owne Image, by thy deare ſon redeemed vs from bondage, and by the holy Ghoſt doeſt ſanctifie and preſerue vs in holineſſe to ſerue thee. Grant vs wee beſeech thee, that as by thy holy word, we are taught the duties of Chriſtia<g ref="char:EOLhyphen"/>nitie, ſo we may without hypocriſie, ſincere<g ref="char:EOLhyphen"/>ly ſerue thee in ſuch ſort, as may tend moſt to the ſetting forth of thy glory, in our pil<g ref="char:EOLhyphen"/>grimage of this life preſent: And may alſo moſt directly guide vs to the attaining the eternall felicitie prouided for vs, &amp; all thine elect, in thy celeſtiall Paradize in the life to come. And powerfull Lord wee pray thee, by the rule of thy Law, ſo religiouſly go<g ref="char:EOLhyphen"/>uerne our hearts, that we neyther ſtray af<g ref="char:EOLhyphen"/>ter our owne Imaginations, nor deceiue our ſelues by any vaine oſtentations, and bring vs (by imbracing the doctrines of thy holy Scriptures) to account and eſteeme them the holy, and cleare Criſtall, wherein thy loue is reueiled, and thy law for directi<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:191692:19"/>
+of our liues plainely deſcribed. To true obedience of which thy law, good Father ſo incline, forme, and frame our hearts wee beſeech thee, that vnfainedly, aboue all things we may loue thy holy Maieſtie, and by proceeding in the rules wee practiſe, by an holy chriſtian charity, we may performe our loue one to another, with pure hearts vnfainedly: And finally, by a true and vn<g ref="char:EOLhyphen"/>fained faith obtaine the promiſes of grace, to ſerue thee in true holineſſe and righte<g ref="char:EOLhyphen"/>ouſneſſe of life, and after this true ſanctifi<g ref="char:EOLhyphen"/>cation and grace preſent, we may raigne with thee in euerlaſting glory, world without end, through Ieſus Chriſt our bleſſed Saui<g ref="char:EOLhyphen"/>our and Redee<g ref="char:EOLhyphen"/>mer.</p>
+               <closer>Amen.
+(⸫)</closer>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:191692:19"/>
+            <head>Here followeth the ſecond part <hi>of the</hi> Criſtall of Chriſtianitie, wherein the Sacrament of Baptiſ<g ref="char:EOLhyphen"/>me is diſcuſſed very plainely, and very familiarly.</head>
+            <p>
+               <hi>Queſtion.</hi> 
+               <seg rend="decorInit">T</seg>O that end that all Chri<g ref="char:EOLhyphen"/>ſtians may vnderſtande what the true Church of Chriſt is, ſhew me whom and what you do call the true Church of Chriſte here on earth.</p>
+            <p>
+               <hi>Anſwere.</hi> The name of Church by ſignification, ſig<g ref="char:EOLhyphen"/>nifieth,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>Calling,</hi> And all Chriſtian people that profeſſe the faith of Chriſt, are named by the name of the Church viſible, gene<g ref="char:EOLhyphen"/>rally.</p>
+            <p>Q. Who are more effectually and truely called the Church?</p>
+            <p>A. They truely in this world are called the true and inuiſible Church of Chriſt, whom God elected to ſaluation before the begin<g ref="char:EOLhyphen"/>ning of the world: And which in receiuing Chriſt by faith, doe beleeue in Chriſt alone
+<pb facs="tcp:191692:20"/>
+to be ſaued eternally.</p>
+            <p>Q. What is the condition and eſtate of them which be true members of the church and doe beleeue in Chriſt effectually?</p>
+            <p>A. Although it doth not to men alwayes ſo appeare, yet it is apparant, that the true members of the Church are repleniſhed with true happineſſe, holineſſe, and endued with diuine and ſauing graces.</p>
+            <p>Q. How are they which are members of Chriſt his true Church, made happie?</p>
+            <p>A. The true Church, and euery member are bleſſed &amp; made happie by Chriſt, which taketh away the curſe and wrath of God due for ſinne from them, and beſtoweth his righteouſneſſe on them.</p>
+            <p>Q. How are Chriſt his members made ho<g ref="char:EOLhyphen"/>ly?</p>
+            <p>A. Through his holy ſpirit, which ſanctifi<g ref="char:EOLhyphen"/>eth all the elect in Chriſt, with true holi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Q. How are they repleniſhed here on earth with heauenly graces?</p>
+            <p>A. As the Sunne-beames are made perta<g ref="char:EOLhyphen"/>kers of the Sunnes glory and brightneſſe: So the true Chruch is repleniſhed, and e<g ref="char:EOLhyphen"/>uery part made pertakers of ſuch heauen<g ref="char:EOLhyphen"/>ly vertues and diuine graces, wherby God
+<pb facs="tcp:191692:20"/>
+our heauenly Father is glorifyed by his grace giuen to the members of the Church in this life preſent.</p>
+            <p>Q. Doe you conclude then that all Chriſti<g ref="char:EOLhyphen"/>ans which truely beleeue in the Sonne of God, which are ſanctified by the ſpirite of God, and through his grace expreſſe in this life the glory of God, are effectually called into the true Church, and they are rightly called the true Church of Chriſt.</p>
+            <p>A. This is my concluſion, that all faithfull people, elected before the foundation of the world in Chriſt: gathered throughout the world vniuerſally, which are iuſtified, ſanc<g ref="char:EOLhyphen"/>tified, and ordained to be glorified, are the true Church of Chriſt, of whom Chriſt is the Lord and head, and are therefore called the true Chriſtian Church rightly.</p>
+            <p>Q. What aſſurance hath the Church here on earth of Chriſtes loue?</p>
+            <p>A. Chriſt hath appoynted the preaching of Gods bleſſed Word, and the holy Sacra<g ref="char:EOLhyphen"/>ments as teſtimonies thereof.</p>
+            <p>Q. How many Sacraments hath Chriſts ordayned in his Church, neceſſary for the ſaluation of his Church?</p>
+            <p>A. Chriſt hath ordayned, and in his church inſtituted the Sacrament of Baptiſme, to
+<pb facs="tcp:191692:21"/>
+receiue and entertaine them which are his members, into the fauour of God, by his loue.</p>
+            <p>Q. What other Sacrament was by Chriſt inſtituted?</p>
+            <p>A. The holy feaſt and banquet of his moſt bleſſed body and bloud, to feede them and ſuſtaine them by, and with full aſſurance of his loue.</p>
+            <p>Q. What meane you by this word, <hi>Sacra<g ref="char:EOLhyphen"/>ments?</hi>
+            </p>
+            <p>A. Sacraments are outward ſignes, that doe repreſent all thoſe ſpirituall, inwarde ſauing graces, which the faithfull receiue from God through Ieſus Chriſt.</p>
+            <p>Q. What is the outward ſigne in Baptiſ<g ref="char:EOLhyphen"/>me?</p>
+            <p>A. Water, wherein the Childe is dipped or ſprinkled with: and it doth repreſent the two properties of Water, which doth both clenſe, and comfort.</p>
+            <p>Q. How doth the propertie of clenſing a<g ref="char:EOLhyphen"/>grée with the inward graces repreſented in Baptiſme?</p>
+            <p>A. The propertie of clenſing, repreſenteth the clenſing of our ſinnes by the precious and pure bloud of Chriſt, which was ſhed on the Croſſe for our ſinnes.</p>
+            <p>
+               <pb facs="tcp:191692:21"/>Q. How doth Water in Baptiſme repre<g ref="char:EOLhyphen"/>ſent comfort to vs?</p>
+            <p>A. As Baptiſme is inſtituted in ſtead of Circumciſion, which was a ſeale of righte<g ref="char:EOLhyphen"/>ouſneſſe by faith, ſo the faithfull are ſealed, and comforted by faith in Chriſt to bee ſa<g ref="char:EOLhyphen"/>ued.</p>
+            <p>Q. Doth Baptiſme both ſignifie clenſing from ſinne, and ſealing vnto righteouſnes?</p>
+            <p>A. Our clenſing from ſinne, euen from the infection of the Leproſie, which came by A<g ref="char:EOLhyphen"/>dams diſobedience: And the eſſentiall righ<g ref="char:EOLhyphen"/>teouſneſſe which commeth by Chriſt, is re<g ref="char:EOLhyphen"/>preſented by Baptiſme.</p>
+            <p>Q. What is the cauſe you compare origi<g ref="char:EOLhyphen"/>nall ſinne to the infectious diſeaſe of the Le<g ref="char:EOLhyphen"/>proſie?</p>
+            <p>A. The word doth declare originall ſinne<note place="margin">
+                  <hi>Gezar,</hi> or <hi>Gazar<g ref="char:punc">▪</g>
+                  </hi>
+               </note> to be full of euill, to flow with euill, and to ouerflow all men naturally, with cor<g ref="char:EOLhyphen"/>ruption tending to damnation.</p>
+            <p>Q. Doth that daungerous diſeaſe bring daunger of damnation naturally on all men?</p>
+            <p>A. In one ſignificant word the Apoſtle doth<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> ſhew that the infection, doth ſo infect all mans affections and partes with diſobedi<g ref="char:EOLhyphen"/>ence, that the will of the naturall man will
+<pb facs="tcp:191692:22"/>
+not obey the will of God: for the which re<g ref="char:EOLhyphen"/>bellion the wrath of God commeth ouer all the children of diſobedience to condemna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Q. How are the faithfull freed from this infectious ſin of Leproſie, proceeding from Adams diſobedience?</p>
+            <p>A. As it came by diſobedience of one, vpon all men to condemnation: So it is taken away by the perfect obedie<g ref="char:cmbAbbrStroke">̄</g>ce of one (name<g ref="char:EOLhyphen"/>ly of Chriſt) from all that be members of Chriſt, and ordayned to ſaluation.</p>
+            <p>Q. Are not all men as well as ſome parta<g ref="char:EOLhyphen"/>kers of that benefite, by the perfect obedi<g ref="char:EOLhyphen"/>ence of Chriſt?</p>
+            <p>A. None haue this benefite by Chriſt, but the regenerate onely.</p>
+            <p>Q. What meane you by regeneration?</p>
+            <p>A. Regeneration is a ſauing grace in Bap<g ref="char:EOLhyphen"/>tiſme, pertaining to the regenerate onely: for it is not ſufficient for children to be dip<g ref="char:EOLhyphen"/>ped into the water, but to bee alſo buryed with Chriſt in Baptiſme, and to be borne anew by the power of the holy Ghoſt.</p>
+            <p>Q. How doth this appeare in the regene<g ref="char:EOLhyphen"/>rate?</p>
+            <p>A. As many as ſpiritually receiue the ſon of God by faith, to be their Sauiour: they
+<pb facs="tcp:191692:22"/>
+receiue priueledge, and power, to bee the ſonnes of God, which is the Father of our Lord Ieſus Chriſt, and father of all the faithfull.</p>
+            <p>Q. Shew me this priuiledge of them which beleeue, and how they be borne anew and made the ſonnes of God.</p>
+            <p>A. They are not begotten of fleſh &amp; bloud, nor conceiued of the will of the fleſh, nor borne of the will of man, but of God.</p>
+            <p>Q. How commeth it to paſſe that in the re<g ref="char:EOLhyphen"/>generate, the blemiſh of ſin doth remaine, being borne of God.</p>
+            <p>A. God doth ſuffer ſome ſinne to be found and in the beſt to remaine (but neuer ſuf<g ref="char:EOLhyphen"/>fereth it to raigne) &amp; it remaineth for their good, and Gods glory.</p>
+            <p>Q. Can the remaining of ſinne in the chil<g ref="char:EOLhyphen"/>dren of God, turne to their good, and Gods glory?</p>
+            <p>A. It can and doth appeare for many pur<g ref="char:EOLhyphen"/>poſes to be ſo by the word of God.</p>
+            <p>Q. Shew me ſome and ſuch proofes as you finde to be approued?</p>
+            <p>A. Firſt, the faithfull finde, that feeling ſinne, and finding their owne corruption: therby God worketh in the faithfull a true humiliation.</p>
+            <p>
+               <pb facs="tcp:191692:23"/>Secondly, when the faithfull finde they haue ſtrong combates with corruption. In ſuch ſtrong conflicts, the faithfull flye more feruently to ſeeke ſuccour of God, by fer<g ref="char:EOLhyphen"/>uent prayer, and earneſt inuocation.</p>
+            <p>Thirdly, the faithfull finding the power of Gods ſpirit, to ſupport their weakeneſſe, and to preſerue them ſafely in all perils: are prouoked to praiſe God daily for their ſafe<g ref="char:EOLhyphen"/>tie and preſeruation.</p>
+            <p>Fourthly, God often times appoynteth that the beſt and moſt perfecteſt ſhall haue ſtrongeſt battaile with corruption: That when the victorie is gained, as victors and valiant Souldiers of Chriſt: a greater waight of glory may be prouided, and with more glorious Crownes of immortall glo<g ref="char:EOLhyphen"/>ry ſhall ſuch be crowned and glorified.</p>
+            <p>Q. Doe you conclude then, that all the e<g ref="char:EOLhyphen"/>lect ſhalbe glorified, which liue on earth to Gods glory: and ſuch as moſt glorifie God before men, ſhall receiue greateſt glorie in heauen?</p>
+            <p>A. It muſt be ſo concluded as it is by teſti<g ref="char:EOLhyphen"/>monie of Chriſt himſelfe conclnded (to the comfort and incouragement of all godly &amp; faithfull members of his true Church) which according as they couenant in Bap<g ref="char:EOLhyphen"/>tiſme,
+<pb facs="tcp:191692:23"/>
+be faithfull vnto death.</p>
+            <p>Q. What is the dutie of Chriſtians which are partakers of the Sacrament of Baptiſ<g ref="char:EOLhyphen"/>me?</p>
+            <p>A. Thoſe things ought to be in Chriſtians baptiſed, which were found to bee in Abra<g ref="char:EOLhyphen"/>ham, both when he was Circumciſed, and after he had receiued Circumciſion.</p>
+            <p>Q. What was found in Abraham before Circumciſion?</p>
+            <p>A. Firſt, Abrahams obedience appeared, by obeying the voyce of God, when God called him from parents and patrimonie, from kindred, and countrey.</p>
+            <p>Secondly, Abrahams conſtant beleife did appeare, in beleeuing, and by faith depen<g ref="char:EOLhyphen"/>ding on Gods promiſes.</p>
+            <p>The third grace found in him before Cir<g ref="char:EOLhyphen"/>cumſion was his willing minde, both to re<g ref="char:EOLhyphen"/>ceiue the couenants made by Gods Maie<g ref="char:EOLhyphen"/>ſtie, and to make couenants of dutifull ſer<g ref="char:EOLhyphen"/>uice vnto God againe.</p>
+            <p>Q. How can Children in infancie Bapti<g ref="char:EOLhyphen"/>ſed, take any couenants from God, or make any couenants to God.</p>
+            <p>A. Although Infants Baptiſed cannot themſelues, yet their ſuerties do enter into couenants for them, and it is their duties
+<pb facs="tcp:191692:24"/>
+when they come to knowledge to performe thoſe couenants: And as they hope to haue God to be their Father by Chriſt, ſo to keepe Chriſtian couenants.</p>
+            <p>Q. What are thoſe couenants you meane? A. I meane a Chriſtian is firſt bound to imbrace the Chriſtian faith with all his whole heart. Secondly, to loue God with his whole heart. Thirdly, to endeuour to ſerue, and pleaſe God in true holineſſe and righteouſneſſe all the dayes of his life: and fourthly, to expreſſe ſuch obedience in this life, as his couenants hee made in Baptiſ<g ref="char:EOLhyphen"/>me, bind him to performe.</p>
+            <p>Q. You doe approue, that euen very In<g ref="char:EOLhyphen"/>fants receiuing Baptiſme, are bound by couenants to performe holy duties: Shew me now the dutie of Elders, of Parents, and of Maſters, which are Chriſtians, and by faith hope to be ſaued.</p>
+            <p>A. As Abraham father of the faithfull, af<g ref="char:EOLhyphen"/>ter Circumciſion, when he had entered in<g ref="char:EOLhyphen"/>to couenant with God, according to that couenant, himſelfe, his ſeede, and his ſer<g ref="char:EOLhyphen"/>uants (by his inſtructions) did walke ac<g ref="char:EOLhyphen"/>cording to that holy and heauenly vocati<g ref="char:EOLhyphen"/>on: in beleeuing Gods promiſes, &amp; liuing vertuouſly, to the vttermoſt of his power
+<pb facs="tcp:191692:24"/>
+obeyed Gods Commaundements: So in like manner, by vertue of their couenant in Baptiſme, all Chriſtians are bound to performe ſuch duties of obedience.</p>
+            <p>Q. What doth Abrahams faith and obe<g ref="char:EOLhyphen"/>dience teach vs?</p>
+            <p>A. As Abraham walked, ſo faithfull Chri<g ref="char:EOLhyphen"/>ſtians muſt walke: and endeuour to follow his ſteppes in faith, and obedience, and be<g ref="char:EOLhyphen"/>come ſuch faithfull Fathers, as may ap<g ref="char:EOLhyphen"/>proue them, not onely to ſhewe a dutie of Parents, in bringing their Children to the holy Sacrament of Baptiſme (&amp; ſee them Baptiſed) but alſo after Baptiſme, parents muſt and are bound to ſee their Children &amp; ſeruants inſtructed &amp; educated from their infancie, to liue holily &amp; religiouſly, where<g ref="char:EOLhyphen"/>by Gods name, who hath called them, may bee glorified in them, their Children, and familie.</p>
+            <p>Q. I doe vnderſtand what you meane by the Church of Chriſt: and likewiſe the be<g ref="char:EOLhyphen"/>nefites of Baptiſme, and dutie of Chriſti<g ref="char:EOLhyphen"/>ans in Baptiſme (which hope to bee ſaued) ſhew mee nowe a reaſon why the faithfull freed from eternall death, doe die a bodily death.</p>
+            <p>A. The benefits of bodily death are many
+<pb facs="tcp:191692:25"/>
+to the faithfull: and death of body bringeth aduantage to Chriſtes members, both in bodie and ſoule.</p>
+            <p>Q. What benefites bringeth bodily death to the faithfull?</p>
+            <p>A. Firſt, by bodily death all rebellious af<g ref="char:EOLhyphen"/>fections in the fleſh are vtterly killed, and all ſinfull affections vtterly quenched.</p>
+            <p>Secondly, as the dead bodie is buryed: ſo all carnall affections are perfectly morti<g ref="char:EOLhyphen"/>fied: And euery part by perfect mortifica<g ref="char:EOLhyphen"/>tion made more fit to receiue glory in the day of the reſurrection.</p>
+            <p>Q. Are both the laying into graue, and ri<g ref="char:EOLhyphen"/>fing from graue, benefits to the faithfull?</p>
+            <p>A. The graue hath euer beene a chamber of ſafetie to the faithfull: But now ſithence the bleſſed bodie of Chriſt was layd into the graue, it is made the bedde of ſweete ſpycerie to the godly.</p>
+            <p>Q. If the very graue bee beneficiall: ſhew me what benefits doth riſing from graue, bring to the buryed bodies of Chriſtians?</p>
+            <p>A. The bodies of Chriſtians which are bu<g ref="char:EOLhyphen"/>ryed in Seas or Land, are ſowne in cor<g ref="char:EOLhyphen"/>ruption, in diſhonour, in weakeneſſe, in e<g ref="char:EOLhyphen"/>ſtate mortall, they riſe in incoruption, in honour, in power, and in immortall eſtate,
+<pb facs="tcp:191692:25"/>
+neuer to periſh, neuer to dye a ſecond death, as the wicked doe.</p>
+            <p>Q. What benefits finde the faithfull after death, in the eſtate of Immortalitie, and af<g ref="char:EOLhyphen"/>ter this mortall life?</p>
+            <p>A. The death of euery faithfull member of Chriſt, waſhed in Baptiſme with his precious bloud, is precious in Gods ſight, and as the ſight of God ſhall bring all cele<g ref="char:EOLhyphen"/>ſtiall ioy: ſo the preſence of God, where is all fulneſſe of Ioy &amp; perpetuall peaee, ſhall fulfill the faithfull ſo full of that felicitie, tranquilitie, and heauenly glory, which is vnſpeakeable, for excellencie &amp; perpetuitie, whether good Lord bring vs all. Amen.</p>
+            <div type="prayer">
+               <pb facs="tcp:191692:26"/>
+               <p>A Prayer at the end of this <hi>ſecond part to bee vſed.</hi>
+               </p>
+               <p>
+                  <seg rend="decorInit">B</seg>Leſſed Lord God, as we praiſe thy Maieſtie for thy mercy in inſtructing vs, ſo we humblie pray thee, that wee being in<g ref="char:EOLhyphen"/>ſtructed in the true knowledg of thy elected Church and ſanctified Con<g ref="char:EOLhyphen"/>gregation, and hauing learned, that as a pledge of thy loue, thou haſt left the Sacra<g ref="char:EOLhyphen"/>ment of Baptiſme, by effectuall operation to repreſent the waſhing away of our ſins, and ſealing aſſurance of ſaluation to our ſoules, by the precious bloud of thy deare Sonne, to our eternall ſafetie. Free vs good Lord we beſeech thee from all originall cor<g ref="char:EOLhyphen"/>ruption: By thy holy ſpirit make perfect our Regeneration, by our new birth grant that our old euils of Adam in vs naturally, may more and more be mortified, the fruits of holineſſe in vs may more be increaſed, to thy glory and our good. And good father
+<pb facs="tcp:191692:26"/>
+we pray thee, by the example of faithfull Abraham, which hath by thy word beene taught vs, ſo inſtruct vs thy ſeruants, that we and our ſeede may faithfully keepe our promiſed Couenants made to thee in Bap<g ref="char:EOLhyphen"/>tiſme, both in obeying thy holy comman<g ref="char:EOLhyphen"/>dements our ſelues, and alſo inſtructing our children &amp; ſeruants in the ſame obedience, ſo that we and our familie may daily ende<g ref="char:EOLhyphen"/>uour to pleaſe and ſerue thy Maieſtie in holy obedience. And gratious Lord, ſeeing we feele ſinne to haue in our fleſh a perma<g ref="char:EOLhyphen"/>nency, giue vs ſuch power ouer our ſinne, that in vs it may neuer haue ſoueraignitie. And grant vs ſuch grace, that both bodily death, and the graue, may bring benefits to vs, and to all true beleeuers: And in the day of the Reſurrection (our bodies riſing to immortalitie) may bee ioyned to our ſoules, to enioy in thy glorious king<g ref="char:EOLhyphen"/>dome, euerlaſting glory, through Ieſus Chriſt our Lord, and glorious Redeemer.</p>
+               <closer>Amen. (⸫)</closer>
+            </div>
+         </div>
+         <div n="3" type="part">
+            <div type="prayer">
+               <pb facs="tcp:191692:27"/>
+               <pb facs="tcp:191692:27"/>
+               <head>A Prayer before the Sacrament <hi>of the LORDS Supper.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">B</seg>Leſſed, holy, and heauenly Father, without whom there is no felicitie, no ſanctitie, nor at the banket of thy deare ſon (with thy Saints) no ſocietie. We beſeech thee good Lord, ſanctifie vs poore ſinners, that both our bodies and ſoules, may from all former impuritie bee purged, and with the wedding garment of true Chriſtianitie and charitie bee clothed: For our farther preparation peirce our harts with an earneſt ſorrow for our ſinnes, that by ſuch penitency, we may bee purged from our grieuous offences: Moreouer, we beſeech thee, plant in our harts that faith in thy promiſes, that by beleeuing thy Sonne to be the bread of life, hee may ſuſtaine our ſoules to eternall life: And we with a liuely
+<pb facs="tcp:191692:28"/>
+faith beleeuing and receiuing thoſe ban<g ref="char:EOLhyphen"/>quetting Diſhes, and purified Wines, may through faith be freed from eternall death. And finally, grant wee beſeech thee to vs, ſuch faith and perfect perſwaſion, that in vs this ſpirituall foode may haue ſpirituall op<g ref="char:EOLhyphen"/>peration, and wee thereby nouriſhed, may in grace be more increaſed: From death e<g ref="char:EOLhyphen"/>ternall, by faith freed. And by our conſtant faith euerlaſting life may be granted in thy glorious kingdome, to liue and raigne with thee and thy deare Sonne, through the ſame thy bleſſed Sonne, our onely Saui<g ref="char:EOLhyphen"/>our and Redee<g ref="char:EOLhyphen"/>mer.</p>
+               <closer>Amen.
+(⸫)</closer>
+            </div>
+            <div type="part_proper">
+               <pb facs="tcp:191692:28"/>
+               <head>Here followeth the third part <hi>of the</hi> Criſtall of Chriſtianitie, wherein the Sacrament of the Lords Supper is diſcuſſed very plainely, and very familiarly.</head>
+               <p>
+                  <hi>Queſtion.</hi> 
+                  <seg rend="decorInit">P</seg>Roceede now to the Sa<g ref="char:EOLhyphen"/>crament of the <hi>LORDS SVPPER,</hi> and both ſhew me the outwarde ſignes of the Sacrament, and what inward ſauing gra<g ref="char:EOLunhyphen"/>tes be thereby preſented to the Church?</p>
+               <p>A. The ſignes in the Lords Supper are bread and wine, ſignifying by bread, his bleſſed body broken for vs, and by wine, his precious bloud, powred out for remiſſion of our ſinnes.</p>
+               <p>Q. How doth bread ſignifie his bodie, and repreſent the bleſſings of his bodie to vs? A. As the word for bread in the true ſigni<g ref="char:EOLhyphen"/>fication, doth ſignifie all kinde of ſuſtenta<g ref="char:EOLhyphen"/>tion and nouriſhment for our bodies, ſo doth the giuing vs his bodie, ſignifie ſpiri<g ref="char:EOLhyphen"/>tually all ſuſtentation for ſoule and bodie.
+<pb facs="tcp:191692:29"/>
+He is our wiſedome, he is our ſanctificati<g ref="char:EOLhyphen"/>on, he is our iuſtification, he is our redemp<g ref="char:EOLhyphen"/>tion, he is our ſaluation: The giuing of Chriſt from God to mankind, is with him, giuing all good things to mankind, for this life, and the life to come, for hee is the true bread that came downe from heauen to ſuſ<g ref="char:EOLhyphen"/>taine vs by his grace on earth, vntill wee attaine glory with him in heauen.</p>
+               <p>Q. How doth Wine repreſent his bloud powred out for vs?</p>
+               <p>A. Chriſt calleth himſelfe the true Vine, and his grapes are ſpirituall graces, and as he is full of grace, ſo his grapes are full of ſpi<g ref="char:EOLhyphen"/>rituall power: and when his head was with thornes raſed, his hands and his feete with nailes boared, his ſides and heart pierced, the purified Wine of his peirced heart, was powred out (to comfort our hearts) where<g ref="char:EOLhyphen"/>with hee doth commaund his Prophet to comfort his people at the heart, namely, with pardon of their ſinnes, which comfort of remiſſion of ſinnes, doth approue his bloud to haue the propertie of Wine, which is comfortable.</p>
+               <p>Q. You call it a banquet, and a Supper of Chriſt, ſhew mee for whom this feaſt is made, and eſpecially prouided?</p>
+               <p>
+                  <pb facs="tcp:191692:29"/>A. It is made principally to his true church which before I expreſſed to bee the true be<g ref="char:EOLhyphen"/>leeuers, and none but the true beleeuers, are effectually partakers of this ſpirituall banquet.</p>
+               <p>Q. Doe not all that communicate at the Lords table, by the ſigne of bread receiue the ſauing graces repreſented by the bread. A. As wicked <hi>Iudas</hi> receiued the bread of Chriſt, but not Chriſt the true bread, ſo as many as bee Communicants, hauing ſuch or the like corruption, can neuer receiue the body of Chriſt, and his benefites preſented by the bread (conſecrated by the Word) al<g ref="char:EOLhyphen"/>though they receiue bread and wine at the Sacrament with others.</p>
+               <p>Q. How doth the bread that is conſecrated differ from other bread, which is vſuall for the nouriſhment of our bodies?</p>
+               <p>A. As Waxe before it hath impreſſion of a Seals, is bare Waxe, and after it is more, it is a Seale: So the vſuall water in Bap<g ref="char:EOLhyphen"/>tiſme, and Bread and Wine in the Lords Supper, by the word are made ſacraments and ſeaies, of aſſurance from Chriſt, to aſ<g ref="char:EOLhyphen"/>ſure his true Church (and euery member thereof) of his ſauing graces conteined in the Sacraments.</p>
+               <p>
+                  <pb facs="tcp:191692:30"/>Q. What may bee the difference of men, which communicate all at one Communi<g ref="char:EOLhyphen"/>on?</p>
+               <p>A. As the daunger or perill of the one is great, becauſe they receiue it vnworthily, not conſidering the Lords bodie, and often times ſuch for vnworthy receiuing, doe re<g ref="char:EOLhyphen"/>ceiue puniſhment, and ſometimes ſuch doe eate and drinke their owne damnation, as the Apoſtle teſtifieth.</p>
+               <p>So the benefit of them that receiue it wor<g ref="char:EOLhyphen"/>thily is great, for by faith they feeding ſpi<g ref="char:EOLhyphen"/>ritually, doe eate the ſpirituall foode (which neuer periſheth) by vertue whereof they are preſerued from periſhing, and ſuſtained vnto eternall life.</p>
+               <p>Q. What meaneth the Apoſtle by eating and drinking their owne damnation in the Lords ſupper?</p>
+               <p>A. The Apoſtle doth ſignifie, that euen this banquet receiued by the wicked perſons, careleſſe, and without conſideration of their owne impietie, without faith, repentance, or charitie, trampling vnder foote that pre<g ref="char:EOLhyphen"/>cious bloud: Euen for ſuch contempt (hée meaneth) ſuch wicked perſons ſhall finde the receiuing thereof, to teſtifie their con<g ref="char:EOLhyphen"/>demnation more fully.</p>
+               <p>
+                  <pb facs="tcp:191692:30"/>Q. What doth he meane that he ſaith, ſome of you are ſicke, ſome are weake, and ſome are falne aſleepe?</p>
+               <p>A. He admoniſheth them which were (and vs that are now reputed faithfull profeſ<g ref="char:EOLhyphen"/>ſors) that for lack of that worthineſſe, which is required of them, and vs which come not fully or fitly prepared, ſuch were and are puniſhed with ſuch ſickneſſes and puniſh<g ref="char:EOLhyphen"/>ments, as might make them better to con<g ref="char:EOLhyphen"/>ſider their owne crimes, and vnaduiſed re<g ref="char:EOLhyphen"/>ceiuing Chriſt his bleſſed bodie: and ſo con<g ref="char:EOLhyphen"/>denme their owne ſelues: And by ſuch pu<g ref="char:EOLhyphen"/>niſhment alſo God moueth them to flie to him for mercy in this world, that they may not with the wicked of this world, periſh in the world to come, for want of Chriſtian duties.</p>
+               <p>Q. What duties are of Chriſtians required which come to this Sacrament of Chriſt, that they may be reputed worthy receiuers thereof?</p>
+               <p>A. There is required principally of them, a three-folde conſideration or examination, which worthily and effectually bee parta<g ref="char:EOLhyphen"/>kers of Chriſt.</p>
+               <p>Q. Shew me thoſe principall conſiderati<g ref="char:EOLhyphen"/>ons, and examinations?</p>
+               <p>
+                  <pb facs="tcp:191692:31"/>A. As it is not fit for a ſeruant, or a ſubiect, to come to the Table of a temporall King vncleanly, or vncomely, ſo it is much more vnfit and further offence to come to the ta<g ref="char:EOLhyphen"/>ble of the eternall king Chriſt Ieſus, with any kind of vncleanneſſe, as might giue of<g ref="char:EOLhyphen"/>fence to his mightie Maieſtie.</p>
+               <p>Q. Shew mee firſt what cleanneſſe is re<g ref="char:EOLhyphen"/>quired of Chriſtians, comming to his pre<g ref="char:EOLhyphen"/>ſence, to be pertakers of this precious ban<g ref="char:EOLhyphen"/>quet?</p>
+               <p>A. The people were commaunded when they came to heare the Law promulgated on Sina, Certaine dayes to waſh and ſanc<g ref="char:EOLhyphen"/>tifie themſelus, before they came to heare the Law: When the Lord would haue his people talke with his Maieſtie, he comman<g ref="char:EOLhyphen"/>ded them to waſh them, and make them cleane from all their wirkedneſſe. Before King Dauid came to Gods Altar, he waſh<g ref="char:EOLhyphen"/>ed his handes in innocencie. And Chriſt Ieſus did both waſh and wipe the very féete of the Apoſtles, when he would make them fit for this feaſt.</p>
+               <p>Q. What learne we by all theſe waſhings? A. Firſt, when we come to heare the Law or Goſpell preached, all wickedneſſe, and vngodlineſſe muſt be waſhed by earneſt ſor<g ref="char:EOLhyphen"/>row,
+<pb facs="tcp:191692:31"/>
+for former ſinnes committed, and our ſelues ſanctified by beliefe, that pardon for ſinne, and increaſe of grace, may by Chriſt be granted.</p>
+               <p>Secondly, when we come to the maieſty of the glorious God, by inuocation, or pray<g ref="char:EOLhyphen"/>er, we muſt with the <hi>Publican</hi> ſee and bee ſorrowfull for our owne miſerie: and not with a proud, but a pure zeale of ſoule hope to be purged, pardoned, and by Chriſt iuſ<g ref="char:EOLhyphen"/>tified.</p>
+               <p>Thirdly, we muſt not preſume to come to the Temple, nor to the Altar, nor Table of this great King, vntill heart, and hand, bodie, and ſoule, and euery part, be found, by proofe, to be pure and cleane.</p>
+               <p>Fourthly, by Chriſt we are taught, that except we be waſhed by him, &amp; be pronoun<g ref="char:EOLhyphen"/>ced cleane by his mouth, none are fit for this feaſt, and that is the cauſe that the A<g ref="char:EOLhyphen"/>poſtle ſayth, ſome eate &amp; drinke their olone damnation, becauſe that euery man doth not examine himſelfe to find, his teſtimony of his waſhing (through Chriſt Ieſus, Lord of the feaſt) before hee come to the Lordes feaſt, and bleſſed Sacrament of his bodie and bloud.</p>
+               <p>Q. As you haue ſhewed me what cleanlines
+<pb facs="tcp:191692:32"/>
+is fit for Chriſtian Communicants, ſo ſhew me what comelineſſe is required at the ta<g ref="char:EOLhyphen"/>ble and Supper of the Lord?</p>
+               <p>A. As at a feſtiuall Table of a King, come<g ref="char:EOLhyphen"/>ly and deſent garments are required: ſo at the feaſt and table of the Lord, euery Chri<g ref="char:EOLhyphen"/>ſtian muſt haue a comely and Chriſtian garment, ſuch as may pleaſe God through Chriſt.</p>
+               <p>Q. What garment is fit for a Chriſtian to come to the Lords table in?</p>
+               <p>A. There belongeth firſt, a Chriſtian care of caſting away the garment of the old cor<g ref="char:EOLhyphen"/>rupt Adam.</p>
+               <p>And ſecondly, an indeuour to put on Chriſt Ieſus.</p>
+               <p>Q. Shew me what the caſting away of the olde Adam doth ſignifie?</p>
+               <p>A. Firſt, it ſignifieth the caſting away the corruptions that we are clothed with natu<g ref="char:EOLhyphen"/>rally, by Adams tranſqreſſion, and the A<g ref="char:EOLhyphen"/>poſtle nameth them to be principally theſe following, namely, lying and ſlandring in any ſort.</p>
+               <p>Secondly, ſtealing, and all kinde of falſe dealing, vncomely, vngodly, and eſpecially all filthie and prophane talking.</p>
+               <p>Thirdly, all bitterneſſe, wrath, &amp; wrath<g ref="char:EOLhyphen"/>full,
+<pb facs="tcp:191692:32"/>
+or euill ſpeaking one to another, ſéeing we are all members of one bodie.</p>
+               <p>Fourthly, and finally, to baniſh and caſt from vs, all thoughts, words, &amp; workes, that eyther are euill or tend to euill purpo<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>Q. Let me now vnderſtand what the put<g ref="char:EOLhyphen"/>ting on Chriſt Ieſus meaneth?</p>
+               <p>A. Firſt, we muſt vnderſtand the remoo<g ref="char:EOLhyphen"/>uing from the minde inwardly all euils, is the worke of the holy Ghoſt, which after<g ref="char:EOLhyphen"/>ward doth cloth and garniſh the godly with the forme and ſhape of God in true holines and righteouſneſſe by Chriſt.</p>
+               <p>Q. Shew me the ſignes of the holineſſe and righteouſneſſe by Chriſt Ieſus beſtowed on vs?</p>
+               <p>A. As we are clothed by Chriſt with ſanc<g ref="char:EOLhyphen"/>tification of Gods ſpirit, and iuſtification before God, ſo it doth often appeare before men, and is expreſſed, in ſpeaking the truth without diſſimulation. In honeſt dealing and godly care in our vocation, iuſtly to la<g ref="char:EOLhyphen"/>bour, and liue. To ſpeake that which may be inſtruction for others, and conſolation to thoſe that heare our wordes. Chriſtians muſt be courteous one to another, merci<g ref="char:EOLhyphen"/>full one to another, louing one to another,
+<pb facs="tcp:191692:33"/>
+and by loue, which they ſeeing in God to<g ref="char:EOLhyphen"/>wardes them, one to forgiue another, as God for Chriſt his ſake forgiueth them, and in the true garment of vnion clothed, com<g ref="char:EOLhyphen"/>ming to the Communion of the bodie and bloud of Chriſt, ſhall be accepted as gheſts worthie of Gods graces, by Chriſt at the ta<g ref="char:EOLhyphen"/>ble preſented.</p>
+               <p>You haue ſhewed mee from the firſt con<g ref="char:EOLhyphen"/>ſideration, what comelineſſe and cleanneſſe becommeth Chriſtians to haue when they come to be partakers of the Lords ſupper: Shew mée nowe the manner of eating and drinking of the Lords bodie and bloud.</p>
+               <p>Q. What muſt a Chriſtian man conſider in the worthie eating the bodie of Chriſt Ieſus, and drinking his precious bloud ſpi<g ref="char:EOLhyphen"/>ritually?</p>
+               <p>A. As all that worke the worke of GOD, muſt beleeue in him whom God hath ſent, ſo all that will eate the bodie of Chriſt, and drinke his bloud worthily, muſt beleeue in his Incarnation, in his Paſſion, in his Reſurrection, and in his glorious Aſcen<g ref="char:EOLhyphen"/>ſion, rightly and religiouſly: and on theſe, and ſuch benefits ſpiritually feeding by be<g ref="char:EOLhyphen"/>leeuing, are nouriſhed with the benefits of his bodie and bloud effectually.</p>
+               <p>
+                  <pb facs="tcp:191692:33"/>Q. What muſt we conſider and beleeue in Chriſt his Incarnation?</p>
+               <p>A. A Chriſtian muſt conſider the cauſe of Chriſt his Incarnation to proceede from Gods loue, (for mans reſtauration, or re<g ref="char:EOLhyphen"/>ſtoring againe into the fauour of God) for the benefite of all that truely beleeue. And muſt conſtantly be perſwaded, that belee<g ref="char:EOLhyphen"/>uing in the Sonne of God, by this his faith, he ſhall liue eternally, and ſhall neuer pe<g ref="char:EOLhyphen"/>riſh.</p>
+               <p>Q. What muſt a Chriſtian man conſider and beleeue of Chriſt his Paſſion?</p>
+               <p>A. A Chriſtian muſt conſider, that Chriſt in his paſſion did ſuffer all things requiſite for remiſſion of the ſinnes of all faithfull beleeuers: And muſt beleeue, that Chriſt redeemed his by his paſſion, from all man<g ref="char:EOLhyphen"/>ner of ſinne, both concerning <hi>Adams</hi> ſin<g ref="char:EOLhyphen"/>full tranſgreſſion, and alſo concerning his daily ſinfull corruption, and vaine conuer<g ref="char:EOLhyphen"/>ſation.</p>
+               <p>Q. What muſt a Chriſtian conſider, and beleeue in Chriſt his powerfull Reſurrecti<g ref="char:EOLhyphen"/>on?</p>
+               <p>A. A Chriſtian muſt conſider, that as Chriſt Ieſus dyed for the ſaluation of the faithfull, he (namely a Chriſtian) muſt fully be per<g ref="char:EOLhyphen"/>ſwaded
+<pb facs="tcp:191692:34"/>
+that thereby he is effectually riſen, and ſhall thereby eternally, both in bodie &amp; ſoule be ſaued.</p>
+               <p>Q. Nowe concerning Chriſt his glorious Aſcenſion, ſhew me what muſt bee a Chri<g ref="char:EOLhyphen"/>ſtians conſideration, faithfull beleife, and full perſwaſion.</p>
+               <p>A. Firſt, a Chriſtian muſt conſider, Chriſt Ieſus being heyre of all things, and hauing ſhewed all power in heauen and earth to be giuen vnto him, and hauing led Captiuitie captiue, is aſcended into heauen, to take reall and royall poſſeſſion of heauen (in his holy humane ſoule and bodie.) And ſecond<g ref="char:EOLhyphen"/>ly, a Chriſtian muſt beleeue, that where Chriſt is, euery beleeuer ſhall be, and alſo bee fully perſwaded, that from the right hand of God, where Chriſt nowe ſitteth in glory Celeſtiall, Ieſus Chriſt ſhall come to Iudgement (and after a ioyfull ſentence ſounded) all that beleeue in Chriſt, ſhall aſ<g ref="char:EOLhyphen"/>cend with him to receiue the fulneſſe of ioy, and peace perpetuall.</p>
+               <p>Q. You haue ſhewed me what conſiderati<g ref="char:EOLhyphen"/>on and examination is fit before, and at the feeding in the Lords ſupper. Expreſſe vn<g ref="char:EOLhyphen"/>to me now, what becommeth a Communi<g ref="char:EOLhyphen"/>cant to conſider of, after hee hath receiued
+<pb facs="tcp:191692:34"/>
+the bodie and bloud of Chriſt.</p>
+               <p>A. That which a Chriſtian muſt conſider after hee hath receiued the Supper of the Lord, is a right ſpirituall diſgeſtion of that ſpirituall foode.</p>
+               <p>Q. What meane you by a ſpirituall diſge<g ref="char:EOLhyphen"/>ſtion?</p>
+               <p>A. Firſt, I meane a feeling of Gods fa<g ref="char:EOLhyphen"/>uour<note place="margin">Motion.</note> in Chriſt, when the will is ſo bent by force of the loue of God (in ſending his owne Sonne) that thoſe which beleeue in Chriſt ſhould not periſh: That he will with the Prophet ſay: I will loue the Lord which hath deliuered my ſoule from a ſecond death, Mine eyes from wayling in the lake of eternall death, and my feete from finall falling into the endleſſe damnation of them which taſte the torments of a ſecond death.</p>
+               <p>Q. What is the ſecond opperation of ſpi<g ref="char:EOLhyphen"/>rituall diſgeſtion.</p>
+               <p>A. The ſecond is a diuine apprehenſion of<note place="margin">Inclination</note> Gods ſpirit moouing the minde to an holy inclination, by deſiring and louing of that which may moſt here on earth pleaſe Gods Maieſtie: And aboue all things earthly to bend and ſet our affections on thinges hea<g ref="char:EOLhyphen"/>uenly, and to ſay, I deſire to bee with my Sauiour, of whoſe ſweets ſauour, I haue
+<pb facs="tcp:191692:35"/>
+in this banquet taſted by faith.</p>
+               <p>Q. What further feeling of diuine fauors is in ſpirituall diſgeſtion of theſe holy mi<g ref="char:EOLhyphen"/>ſteries<g ref="char:punc">▪</g>
+               </p>
+               <p>A. The third opperation of holy diſgeſtion<note place="margin">Hope of fruition.</note> is a liuely hope of full, and firme fruition, of theſe heauenly thinges, that by holy de<g ref="char:EOLhyphen"/>fires, a true Chriſtian member hath ſet his affection vppon, and by this liuely hope, he is fully aſſured, that when Chriſt (which is our life) ſhall appeare in glory, hée ſhall by his bodie (full of glory) ſo powerfully rayſe our mortall bodies from death, that both body and ſoule of the faithfull, ſhall receiue life immortall, and glory eternall.</p>
+               <p>Q. Are there any farther comforts to bee found or felt by ſpirituall diſgeſtion?</p>
+               <p>A. The celeſtiall comforts that the faithfull doe finde in diſgeſting theſe diuine graces, daintie diſhes, and purified wine of Chriſt his bodie and bloud, are vnaccountable. I will conclude with a fourth diſgeſtion, and although ſet laſt, yet is it not the leaſt, for thereof this banquet hath (of the diſgeſti<g ref="char:EOLhyphen"/>on and opperation) a true right title, and denomination.</p>
+               <p>Q. What name hath this feaſt by oppera<g ref="char:EOLhyphen"/>tion of the ſame?</p>
+               <p>
+                  <pb facs="tcp:191692:35"/>A. This feaſt by famous Fathers of the<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Church, was named by a word that ſigni<g ref="char:EOLhyphen"/>fieth a feaſt of thankeſgiuing, in the gréeke tongue.</p>
+               <p>Q. What is ſignified by that denomina<g ref="char:EOLhyphen"/>tion?</p>
+               <p>A. Thereby is expreſſed a fourth ſpirituall and holy diſgeſtion, when the feeling of Gods grace, filleth the ſoule with ſuch ful<g ref="char:EOLhyphen"/>neſſe of true gratuitie, that as with Mar<g ref="char:EOLhyphen"/>row, and fatneſſe of meate, the bones, and bodie are filled, ſo with prayſe and heartie thankeſgiuing, the minde and mouth of the faithfull are filled, and thereby forced to prayſe God the Father, Sonne, and holy Ghoſt, by feeding on that ſpirituall ſuſten<g ref="char:EOLhyphen"/>tation, and drinking of the cup of ſaluation, in remembrance of Chriſt: This grace of thankeſgiuing is giuen to all the faith<g ref="char:EOLhyphen"/>full.</p>
+               <p>Q. You doe meane by the faithfull, all the members of the true Church, which are entertained into the loue of God by effec<g ref="char:EOLhyphen"/>tuall Baptiſme, and freed with the Sonne of God ſpiritually in the Lords ſupper here on earth: Tell me what are their triumphs in Heauen?</p>
+               <p>A. I confeſſe my powers are vnable to ap<g ref="char:EOLhyphen"/>prehend
+<pb facs="tcp:191692:36"/>
+the leaſt part, but this the Scrip<g ref="char:EOLhyphen"/>tures teſtifieth with faithfull Abraham, I<g ref="char:EOLhyphen"/>ſacke, and Iacob, euery faithfull member of the Church militant ſhall reſt, and with the triumphant Church, triumphantly raigne in heauenly tranquilitie, in eternall felicitie, and in vnſpeakeable glory: ſhine as the ſtarres in heauen: And ſing with the Angels of heauen, that holy and heauenly ſong of triumph, <hi>Ale<g ref="char:EOLhyphen"/>luiah,</hi> all honour, glorie, and prayſe be to God, world without ende,</p>
+               <closer>A<g ref="char:EOLhyphen"/>men. (⸫)</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:191692:36"/>
+               <head>A Prayer to be ſayd at the end <hi>of this third part.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg> Lord our God, and grati<g ref="char:EOLhyphen"/>ous Creator, which of thy loue, before the worlde, or man was created, diddeſt in thy ſacred &amp; ſecret decree, appoynt and ordaine out of mankinde, a holy Church and choſen Congregation, eternally to be ſaued in Ie<g ref="char:EOLhyphen"/>ſus Chriſt, and with him, and by him to be made Co-heires in thine euerlaſting king<g ref="char:EOLhyphen"/>dome. The teſtimonie of which thine e<g ref="char:EOLhyphen"/>ternall loue, being left by thy deare Sonne, to his members generally, he vouchſafed in Sacraments (as perpetuall pledges) to or<g ref="char:EOLhyphen"/>daine and inſtitute publikely, of which ho<g ref="char:EOLhyphen"/>ly ordinance we bee nowe made partakers, we humblie beſeech thy bleſſed Maieſtie, to grant vs participation, of all thoſe ſauing graces, and promiſed bleſſinges, which ap<g ref="char:EOLhyphen"/>pertaine to faithfull receiuers, by ſpirituall
+<pb facs="tcp:191692:37"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191692:37"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:191692:38"/>
+receiuing thoſe holy pledges, ſo that by our faithfull feeding on him, thy deare Sonne, we may feele the fruites of his In carnation, the benefits of his bitter Paſſion, the power of his glorious Reſurrection, and receiue by faith aſſurance of the Celeſtiall poſſeſſi<g ref="char:EOLhyphen"/>on, that hee hath obtained by his Aſcenſi<g ref="char:EOLhyphen"/>on. And after this life is ended, with him we may enjoy celeſtiall triumph, and trium<g ref="char:EOLhyphen"/>phantly with his victorious Church, in heart triumph (when ſinne and Sathan are conquered) we may euerlaſting<g ref="char:EOLhyphen"/>ly with the Crowne of eternall life bee Crowned, by and through Chriſt our Cap<g ref="char:EOLhyphen"/>taine, and bleſſed Conquerour,</p>
+               <closer>Amen. (⸫)</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:191692:38"/>
+            <p>Printed at London by <hi>Thomas Dawſon,</hi> dwelling neere the three Cranes in the Vine<g ref="char:EOLhyphen"/>tree, and are there to be ſolde. 1617.</p>
+            <pb facs="tcp:191692:39"/>
+            <pb facs="tcp:191692:39"/>
+         </div>
+      </back>
+   </text>
+</TEI>
